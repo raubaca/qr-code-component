@@ -56,3 +56,4 @@ As the title of the challenge says, the QR Code is a **component**, so I created
 - Frontend Mentor - [@raubaca](https://www.frontendmentor.io/profile/raubaca)
 - Twitter - [@raubaca](https://www.twitter.com/raubaca)
 - LinkedIn - [Raúl Barrera Castiblanco](https://www.linkedin.com/in/raubaca/)
+- CodePen [Raúl Barrera](https://codepen.io/raubaca)
