@@ -51,9 +51,15 @@ As the title of the challenge says, the QR Code is a **component**, so I created
 />
 ```
 
+If you add the script in the `<head>` you must add the `defer` attribute:
+
+```html
+<script src="main.js" defer></script>
+```
+
 ## Author
 
 - Frontend Mentor - [@raubaca](https://www.frontendmentor.io/profile/raubaca)
 - Twitter - [@raubaca](https://www.twitter.com/raubaca)
 - LinkedIn - [Raúl Barrera Castiblanco](https://www.linkedin.com/in/raubaca/)
-- CodePen [Raúl Barrera](https://codepen.io/raubaca)
+- CodePen - [Raúl Barrera Castiblanco](https://codepen.io/raubaca)
